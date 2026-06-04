@@ -57,9 +57,7 @@ PostgreSQL 15+
 Docker (optional)
 Steps
 # clone repository
-git clone https://github.com/Amitmakode/ml-classification-project.git
-cd ml-classification-project
-
+git clone https://github.com/Mayuresh1703/ML_Project_shoppers
 # create virtual environment
 python -m venv venv
 venv\Scripts\activate  # Windows
